@@ -1,7 +1,7 @@
 # Face Recognition With Open-CV
 
 ## Description
-we use OpenCV library with python to recognize faces and take an action according to the face is known or not.
+We use OpenCV library with python to recognize faces and take an action according to the face is known or not.
 
 ## Requirements 
 * Python 2.7
